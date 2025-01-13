@@ -31,7 +31,7 @@
 
                             </div>
                             <div class="text-gray-200">
-                                Area 4, Lilongwe, Malawi
+                                Loresho Ridge, Off Lower Kabete Road, Nairobi, Kenya
                             </div>
                         </div>
                         <!-- end item -->
@@ -46,7 +46,7 @@
                                 </svg>
                             </div>
                             <div class="text-gray-200">
-                                +265 999 999 999
+                                +254 705 123 456
                             </div>
                         </div>
                         <!-- end item -->
@@ -60,7 +60,7 @@
                                 </svg>
                             </div>
                             <div class="text-gray-200">
-                                robertchungah@gmail.com
+                                beauty.bliss@bruand.com
                             </div>
                         </div>
                         <!-- end item -->
@@ -146,8 +146,8 @@
                 class="flex flex-col space-y-4 items-center justify-center mt-4 md:flex-row md:justify-between md:space-y-0">
                 <p class="text-sm text-white">Copyright &copy; 2025 All Right Reserved</p>
                 <div class="text-sm text-white">
-                    Developed by <a href="https://robert-chunga.vercel.app/" target="_blank"
-                        class="text-cyan-300">Robert Chunga</a>
+                    Developed by <a href="https://victorpreston.vercel.app" target="_blank"
+                        class="text-cyan-300">Victor Preston</a>
                 </div>
             </div>
         </div>
